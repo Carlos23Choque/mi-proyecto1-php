@@ -1,0 +1,22 @@
+{
+   "nombre": "carlos23choque/mi-proyecto1-php",
+   "autoload": {
+       "archivos": [
+           "src/herramientas.php" 
+       ]
+               },
+               "autores": [
+
+               {
+                   "nombre": "carlos23choque"
+               }
+            ],
+            "requiere": {}
+            }
+
+
+                   
+               
+           
+
+    
